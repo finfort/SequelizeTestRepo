@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # express-example
 
 This repository demonstrates the usage of sequelize within an express application.
@@ -94,3 +95,6 @@ Once thats done, your database configuration is ready!
 ## The tests
 
 You can run the tests by executing `npm test`.
+=======
+# SequelizeTestRepo
+>>>>>>> b439994e51ce56ed561a78ec8d6a60ff5b93fec8
